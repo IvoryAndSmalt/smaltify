@@ -16,15 +16,24 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum laudantium dol
 </div>
 
 <div class="g-container grid-sm-6 mat-2-hv p-2 m-a gap-5 w-99">
-    <p class="c-sm-1-1 bg-red">
+    <p class="c1-sm1 bg-red">
     c1-1 bg-red
     </p>
-    <p class="c-sm-2-4 bg-blue">
-    c1-4 bg-blue
+    <p class="c2-sm4 r2-2 r1-sm-1 bg-blue">
+    c2-4 bg-blue
     </p>
-    <p class="c-sm-5-1 bg-yellow">
-    c1-5 bg-yellow
+    <p class="c5-sm1 bg-yellow">
+    c5-1 bg-yellow
     </p>
+    <!-- <p class="c1-sm1 bg-red">
+    c1-1 bg-red
+    </p>
+    <p class="c2-sm4 bg-blue">
+    c2-4 bg-blue
+    </p>
+    <p class="c5-sm1 bg-yellow">
+    c5-1 bg-yellow
+    </p> -->
 </div>
 
 </body>

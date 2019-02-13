@@ -15,25 +15,16 @@
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum laudantium dolor nisi! Et voluptatem laborum minus, nihil dolore accusamus ex perspiciatis debitis vel veritatis? A veritatis commodi soluta ipsa eum rem, velit quia tenetur quaerat qui labore vero vel nostrum, cumque harum nemo adipisci aut obcaecati eius. Sed, aperiam consequatur. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime possimus facilis porro? Iusto ex fuga repudiandae unde ut eligendi assumenda enim earum vel voluptas, accusamus accusantium similique ipsam eum. Quaerat?
 </div>
 
-<div class="g-container grid-sm-6 mat-2-hv p-2 m-a gap-5 w-99">
-    <p class="c1-sm1 bg-red">
-    c1-1 bg-red
+<div class="g-container grid-md-12 mat-2-hv p-2 m-a gap-5 w-99">
+    <p id="oui" class="c1-sm4 c1-md8 r3-md5 bg-red center">
+    BONJOUR, CECI EST MON PARAGRAPHE
     </p>
-    <p class="c2-sm4 r2-2 r1-sm-1 bg-blue">
-    c2-4 bg-blue
+    <p id="non" class="c1-sm3 c1-md4 r1-md2 bg-red center">
+    CECI EST MON SOUS-TITRE
     </p>
-    <p class="c5-sm1 bg-yellow">
-    c5-1 bg-yellow
+    <p id="non" class="c1-sm3 c1-md4 r1-md2 bg-red center">
+    CECI EST MON SOUS-TITRE
     </p>
-    <!-- <p class="c1-sm1 bg-red">
-    c1-1 bg-red
-    </p>
-    <p class="c2-sm4 bg-blue">
-    c2-4 bg-blue
-    </p>
-    <p class="c5-sm1 bg-yellow">
-    c5-1 bg-yellow
-    </p> -->
 </div>
 
 </body>
